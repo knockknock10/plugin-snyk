@@ -1,8 +1,9 @@
 group: io.kestra.plugin.snyk
 name: "snyk"
 title: "Snyk"
-description: "Snyk plugin for Kestra"
-body: ""
+description: "Snyk REST API integration for Kestra"
+body: |
+  Integrate Kestra flows with the Snyk REST API to retrieve organization issues and security vulnerabilities.
 videos: []
 createdBy: "Kestra Core Team"
 managedBy: "Kestra Core Team"
